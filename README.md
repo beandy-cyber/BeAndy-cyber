@@ -2,7 +2,7 @@
 
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente estou estudando front end development
-- 📫 Contate-me pelo linkedin - https://www.linkedin.com/in/beatriz-andrade-b73854206/
+
 
 
 <div align="center">
@@ -17,3 +17,10 @@
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
