@@ -1,7 +1,8 @@
-## 😊 Oiii eu sou @BeAndy-cyber, estudante de programação e tecnologia!
-
+## Oiii eu sou a Beatriz, estudante de programação e tecnologia!
+ 
 - 👀 Interessada em atuar como desenvolvedora de sistemas
-- 🌱 Atualmente estou estudando front end development
+- 🌱 Atualmente estudando front end development
+- 😊 Sem preferência de pronomes
 
 
 
