@@ -21,10 +21,9 @@
 </div>
   
   ##
- <big>:octocat: </big>
  
 <div> 
- 
+ <a href=' https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/microsoft/310/face-in-clouds_1f636-200d-1f32b-fe0f.png' ></a>
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 </div>
