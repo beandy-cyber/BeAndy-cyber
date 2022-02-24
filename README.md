@@ -9,11 +9,11 @@
 
 <div align="center">
   <a href="https://github.com/BeAndy-cyber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width: 60% src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width: 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- .img-responsiva {
+ .img {
   width: 100%;
   max-width: 100%;
   height: auto;
