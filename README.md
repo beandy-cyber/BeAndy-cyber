@@ -4,6 +4,7 @@
 - 🌱 Atualmente estudando front end development
 - 😊 Sem preferência de pronomes
 
+ <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 <div align="center">
@@ -20,9 +21,10 @@
 </div>
   
   ##
+ :octocat:
  
 <div> 
-  <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 </div>
