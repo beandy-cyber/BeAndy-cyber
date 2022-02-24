@@ -21,7 +21,7 @@
 </div>
   
   ##
- :octocat:
+ <big>:octocat: </big>
  
 <div> 
  
