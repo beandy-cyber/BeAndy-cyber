@@ -19,6 +19,10 @@
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+ 
+ <div align="right">
+ <img height="180em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+ </div>
   
   ##
  
