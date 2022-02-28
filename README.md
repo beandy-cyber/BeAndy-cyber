@@ -41,12 +41,6 @@
  
  <img align="center" alt="VS code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"> 
  
- <!-- CONTADOR DE VISITAS -->
- 
- <h3> Visitantes </h3>  
- <div>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=BeAndy-cyber&color=green" alt="BeAndy-cyber" /> <br>
- </div>  
  
  <!-- GIF -->
  
@@ -62,5 +56,11 @@
 <div> 
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div><hr>
+
+<!-- CONTADOR DE VISITAS -->
+ 
+ <div align="right">
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=BeAndy-cyber&color=blue" alt="BeAndy-cyber" /> <br>
+ </div>  
  
