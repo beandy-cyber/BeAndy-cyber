@@ -15,9 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/BeAndy-cyber">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=radical"/>
-<img height="200em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=48C2E5&stroke=48C2E5&dates=48C2E5"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=prussian"/>
+<img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&stroke=48C2E5&dates=48C2E5"/>
 
    </div>
  
