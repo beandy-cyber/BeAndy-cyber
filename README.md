@@ -17,9 +17,7 @@
   <a href="https://github.com/BeAndy-cyber">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=radical"/>
-
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=48C2E5&stroke=48C2E5&dates=48C2E5)](https://git.io/streak-stats)
+<img height="200em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=48C2E5&stroke=48C2E5&dates=48C2E5"/>
 
    </div>
  
@@ -28,9 +26,8 @@
  <h2>Tecnologias Sendo Estudadas</h2>
  
  <h3>Back-end</h3>
- <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> 
+ <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
    <h3> Front-end </h3>
  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
