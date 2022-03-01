@@ -4,7 +4,7 @@
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente estudando front end development
-- 😊 Estou mais acostumada com pronomes no feminino (Ela, Dela), mas não me importo de ser chamada de outras formas (Ele, Dele, etc.)
+- 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
 
 <!-- CONTATOS -->
 
