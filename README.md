@@ -21,7 +21,7 @@
  
  <!-- ESPECIALIZÇÕES -->
  
- <h2>Tecnologias Sendo Estudadas ou Aprimoradas</h2>
+ <h2>Tecnologias Sendo Estudadas</h2>
  
  <h3>Back-end</h3>
  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
