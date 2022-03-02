@@ -15,10 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/BeAndy-cyber">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=prussian"/>
-<img height="180em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&stroke=48C2E5&dates=48C2E5"/>
-
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark"/>
    </div>
  
  <!-- ESPECIALIZÇÕES -->
@@ -60,12 +58,20 @@
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 </div><hr>
+ 
+ 
+ <!-- TABELA DE CONTRIBUIÇÕES -->
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
 
 <!-- CONTADOR DE VISITAS -->
  
  <div align="right">
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=BeAndy-cyber&color=blue" alt="BeAndy-cyber" /> <br>
  </div>  
+ 
+ 
  
  
  
