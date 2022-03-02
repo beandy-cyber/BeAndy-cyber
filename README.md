@@ -14,7 +14,7 @@
 
  <!-- TABELA DE CONTRIBUIÇÕES -->
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<hr>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  
  <!-- PAINEL DE TRABALHOS -->
