@@ -3,7 +3,7 @@
 ## Oiii eu sou a Beatriz, estudante de programação e tecnologia!
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
-- 🌱 Atualmente estudando front end development
+- 🌱 Atualmente focando no estudo de front end development
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
 
 <!-- CONTATOS -->
