@@ -67,6 +67,11 @@
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 </div><hr>
  
+ 
+ <!-- Troféus -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="BeAndy-cyber" /></a> </p>
+
+ 
 
 <!-- CONTADOR DE VISITAS -->
  
