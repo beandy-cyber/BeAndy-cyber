@@ -6,10 +6,10 @@
 - 🌱 Atualmente focando no estudo de front end development
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
 
-<!-- CONTATOS -->
+<!-- CONTATOS --><!-- GIF --> 
 
  <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
- <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br> <hr>
+ <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><img align="right" height="200em" src="https://github.githubassets.com/images/mona-loading-dark.gif"> <br> 
 
 
  <!-- TABELA DE CONTRIBUIÇÕES -->
@@ -47,13 +47,13 @@
   <h3> IDE </h3>  
  <img align="center" alt="Visual Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  
- <img align="center" alt="VS code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"> 
+ <img align="center" alt="VS code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"> <hr>
  
  
- <!-- GIF -->
+<!-- DevCard -->
  
  <div align="right">
- <img height="180em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+  <a href="https://app.daily.dev/BeAndy"><img src="https://api.daily.dev/devcards/b536647c5f744940b12ff03b25a27d00.png?r=obe" width="300" alt="Beatriz Andrade Soares's Dev Card"/></a>
  </div>
  
  
