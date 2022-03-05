@@ -6,10 +6,10 @@
 - 🌱 Atualmente focando no estudo de front end development
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
 
-<!-- CONTATOS --><!-- GIF --> 
+<!-- CONTATOS -->
 
  <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
- <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><img align="right" height="200em" src="https://github.githubassets.com/images/mona-loading-dark.gif"> <br> 
+ <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><hr> <br> 
 
 
  <!-- TABELA DE CONTRIBUIÇÕES -->
@@ -26,7 +26,7 @@
    </div>
  
  
- <!-- ESPECIALIZÇÕES -->
+ <!-- ESPECIALIZÇÕES --><!-- GIF --> 
  
  <h2>Tecnologias Sendo Estudadas</h2>
  
@@ -42,6 +42,7 @@
  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 
  <img align="center" alt="bootstrp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="right" height="200em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 
   <h3> IDE </h3>  
@@ -52,8 +53,8 @@
  
 <!-- DevCard -->
  
- <div align="right">
-  <a href="https://app.daily.dev/BeAndy"><img src="https://api.daily.dev/devcards/b536647c5f744940b12ff03b25a27d00.png?r=obe" width="300" alt="Beatriz Andrade Soares's Dev Card"/></a>
+ <div align="left">
+  <a href="https://app.daily.dev/BeAndy"><img src="https://api.daily.dev/devcards/b536647c5f744940b12ff03b25a27d00.png?r=obe" width="275" alt="Beatriz Andrade Soares's Dev Card"/></a>
  </div>
  
  
