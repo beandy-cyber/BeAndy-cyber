@@ -51,21 +51,15 @@
  <img align="center" alt="VS code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"> <hr>
  
  
-<!-- DevCard -->
- 
- <div align="left">
-  <a href="https://app.daily.dev/BeAndy"><img src="https://api.daily.dev/devcards/b536647c5f744940b12ff03b25a27d00.png?r=obe" width="250" alt="Beatriz Andrade Soares's Dev Card"/></a>
- </div>
- 
  
   ##
  
  <!-- COBRINHA -->
  
-<div> 
+<!-- div> 
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
-</div><hr>
+</div><hr> -->
  
 
 <!-- CONTADOR DE VISITAS -->
