@@ -1,19 +1,14 @@
-<!-- APRESENTAÇÃO --><!-- GIF --> 
+<!-- APRESENTAÇÃO -->
 
 ## Oiii eu sou a Beatriz, estudante de programação e tecnologia!
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
-<img align="right" height="50em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
-
-<!-- CONTATOS -->
-
- <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
- <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><hr> <br> 
 
 
  <!-- TABELA DE CONTRIBUIÇÕES -->
+ 
  <div align="center">
 <a href="https://git.io/streak-stats">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -29,7 +24,7 @@
    </div>
  
  
- <!-- ESPECIALIZÇÕES -->
+ <!-- ESPECIALIZÇÕES --><!-- GIF --> 
  
 <div align="center">
 <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
@@ -47,9 +42,20 @@
  <img alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  
  <img alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
- </div> <hr>
+ <img align="right" height="150em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+ </div> 
+ 
+ <hr>
  
  
+  <!-- CONTATOS -->
+
+ <div align="center"> 
+      <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+ <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  </div>
+ 
+
  
   ##
  
