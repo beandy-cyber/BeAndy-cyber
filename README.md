@@ -1,10 +1,11 @@
-<!-- APRESENTAÇÃO -->
+<!-- APRESENTAÇÃO --><!-- GIF --> 
 
 ## Oiii eu sou a Beatriz, estudante de programação e tecnologia!
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
+<img align="right" height="50em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 <!-- CONTATOS -->
 
@@ -13,42 +14,40 @@
 
 
  <!-- TABELA DE CONTRIBUIÇÕES -->
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
+ <div align="center">
+<a href="https://git.io/streak-stats">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ </div>
  
  <!-- PAINEL DE TRABALHOS -->
 
-<div>
+<div align="center">
   <a href="https://github.com/BeAndy-cyber">
   <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+   
   <img  height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
    </div>
  
  
- <!-- ESPECIALIZÇÕES --><!-- GIF --> 
+ <!-- ESPECIALIZÇÕES -->
  
- <h2>Tecnologias Sendo Estudadas</h2>
+<div align="center">
+<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
  
- <h3>Back-end</h3>
- <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
-   <h3> Front-end </h3>
- <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
- <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+ <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
- <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 
- <img align="center" alt="bootstrp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="right" height="150em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
-
-
-  <h3> IDE </h3>  
- <img align="center" alt="Visual Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+ <img alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  
+ <img alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  
- <img align="center" alt="VS code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"> <hr>
+ <img alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+ </div> <hr>
  
  
  
@@ -56,10 +55,10 @@
  
  <!-- COBRINHA -->
  
-<!-- div> 
+<div> 
  
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
-</div><hr> -->
+</div><hr>
  
 
 <!-- CONTADOR DE VISITAS -->
