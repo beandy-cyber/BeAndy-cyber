@@ -42,7 +42,10 @@
  <img alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  
  <img alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+ 
+ <img align="right" height="135em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
  </div> 
+ 
  
  <hr>
  
@@ -51,7 +54,7 @@
 
  <div align="center"> 
       <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
- <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <img align="right" height="100em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+ <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
   </div>
  
