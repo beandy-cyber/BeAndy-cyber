@@ -9,17 +9,17 @@
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  
- <div align="left">
+ <div align="center">
 
   <a href="https://github.com/BeAndy-cyber">
-  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  
    
    <a href="https://git.io/streak-stats">
- <img  height="200em" width="300em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img  height="200em" width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img  height="200em" width="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img  height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
    </div>
- 
+ <br>
  
  <!-- ESPECIALIZÇÕES --><!-- GIF --> 
  
@@ -41,11 +41,11 @@
  <img alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  
  <img align="right" height="135em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
- </div> <br>
+ </div> 
+   
+   <hr>
  
- 
- 
- 
+   
   <!-- CONTATOS -->
 
  <div align="center"> 
