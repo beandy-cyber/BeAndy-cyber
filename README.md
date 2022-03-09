@@ -9,15 +9,15 @@
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  
- <div align="center">
+ <div align="left">
 
   <a href="https://github.com/BeAndy-cyber">
-  <img height="200em" width="330em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
    
    <a href="https://git.io/streak-stats">
- <img  height="200em" width="330em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img  height="200em" width="300em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img  height="200em" width="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img  height="200em" width="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
    </div>
  
  
