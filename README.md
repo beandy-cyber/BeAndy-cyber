@@ -7,20 +7,17 @@
 - 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
 
 
- <!-- TABELA DE CONTRIBUIÇÕES -->
+ <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  
  <div align="center">
-<a href="https://git.io/streak-stats">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
- </div>
- 
- <!-- PAINEL DE TRABALHOS -->
 
-<div align="center">
   <a href="https://github.com/BeAndy-cyber">
-  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api?username=BeAndy-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
    
-  <img  height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+   <a href="https://git.io/streak-stats">
+ <img  height="200em" width="350em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+   
+  <img  height="200em" width="295em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
    </div>
  
  
