@@ -9,7 +9,7 @@
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  
- <div align="center">  
+ <div>  
    
    <a href="https://git.io/streak-stats">
  <img  height="200em" width="420em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
