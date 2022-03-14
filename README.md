@@ -12,9 +12,9 @@
  <div>  
    
    <a href="https://git.io/streak-stats">
- <img  height="180em" width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img  height="180em" width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img  height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img  height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
    </div>
  
  <br>
