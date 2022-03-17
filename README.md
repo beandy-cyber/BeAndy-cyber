@@ -4,8 +4,6 @@
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
-- 😊 Estou mais acostumada a ser tratada com pronomes no feminino (Ela, Dela)
-
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  
