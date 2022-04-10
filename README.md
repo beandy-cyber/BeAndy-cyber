@@ -57,7 +57,7 @@
   <!--Resumo-->
  <div>
   <img align="right" height="300em" src="Typing-bro.svg">
-  <h2>Sobre MiM</h2>
+  <h2>Mais Sobre Mim</h2>
   <p>
  Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
  Aos poucos fui estudando sobre conceitos simples, como HTML5, CSS3, Lógica de Programação, entre outros; até me dar conta de que Desenvolvimento Web é minha paixão.<br><br>
