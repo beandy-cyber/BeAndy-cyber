@@ -1,5 +1,5 @@
 <!-- APRESENTAÇÃO -->
-<img src="header.jpg">
+<img src="perfil.png">
 
 <!-- APRESENTAÇÃO -->
 
@@ -13,16 +13,16 @@
  <div>  
    
    <a href="https://git.io/streak-stats">
- <img  height="180em" width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img  height="180em" width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img  height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
+  <img  height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=false"/>
    </div>
  
  <br>
  
  <!-- ESPECIALIZÇÕES --><!-- GIF --> 
- 
 <div align="center">
+ 
 <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
  
 <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
@@ -39,9 +39,9 @@
  
  <img alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  
- <img align="right" height="135em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+ 
  </div> 
-   
+   <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
    <hr>
  
    
@@ -51,9 +51,20 @@
       <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
  <a href="mailto: beandy.023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
-  </div>
+  </div><hr>
  
 
+  <!--Resumo-->
+ <div>
+  <img align="right" height="300em" src="Typing-bro.svg">
+  <h2>Sobre MiM</h2>
+  <p>
+ Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
+ Aos poucos fui estudando sobre conceitos simples, como HTML5, CSS3, Lógica de Programação, entre outros; até me dar conta de que Desenvolvimento Web é minha paixão.<br><br>
+ Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o intuito de aprofundar e desenvolver meus conhecimentos.<br><br>
+
+  </p>
+ </div>
  
   ##
  
