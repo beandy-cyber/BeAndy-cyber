@@ -1,6 +1,9 @@
 <!-- APRESENTAÇÃO -->
+<img src="header_img.jpg">
 
-## Oiii eu sou a Beatriz, estudante de programação e tecnologia!
+<!-- APRESENTAÇÃO -->
+
+## Eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
  
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
