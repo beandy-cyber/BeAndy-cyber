@@ -1,5 +1,5 @@
 <!-- APRESENTAÇÃO -->
-<img src="header_img.jpg">
+<img src="header.jpg">
 
 <!-- APRESENTAÇÃO -->
 
