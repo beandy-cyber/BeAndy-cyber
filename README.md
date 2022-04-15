@@ -56,15 +56,15 @@
 
   <!--Resumo-->
  <div>
-  <img align="right" width="35%" src="Typing-bro.svg">
-  <h2 width="65%">Mais Sobre Mim</h2>
-   <p width="65%">
+  <img align="right" width="35%" src="Typing-bro.svg"><br>
+  <h2 align="justify" width="65%">Mais Sobre Mim</h2>
+   <p align="justify" width="65%">
     Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
     Aos poucos fui estudando sobre conceitos simples, como HTML5, CSS3, Lógica de Programação, entre outros; até me dar conta de que Desenvolvimento Web é minha paixão.
    </p>
-   <p>
+   <p align="justify" width="65%">
     Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o    
-    intuito de aprofundar e desenvolver meus conhecimentos.<br><br>
+    intuito de aprofundar e desenvolver meus conhecimentos.<br>
    </p>
   
  </div>
