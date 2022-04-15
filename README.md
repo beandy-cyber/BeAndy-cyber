@@ -64,7 +64,7 @@
    </p>
    <p align="justify" width="65%">
     Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o    
-    intuito de aprofundar e desenvolver meus conhecimentos.<br>
+    intuito de aprofundar e desenvolver meus conhecimentos.
    </p>
   
  </div>
