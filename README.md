@@ -48,8 +48,8 @@
   <!-- CONTATOS -->
 
  <div align="center"> 
-      <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img align="center" width="13%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
- <a href="mailto: beandy.023@gmail.com" target="_blank"> <img align="center" width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+      <a href="https://www.linkedin.com/in/beandy/" target="_blank"><img align="center" width="125em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+ <a href="mailto: beandy.023@gmail.com" target="_blank"> <img align="center" width="100em%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
   </div><hr>
  
