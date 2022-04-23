@@ -1,10 +1,10 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="perfil.png">
+<img width="100%" src="AdobeStock_254850451.jpeg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
-## Eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
+## Olá! Eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 <br>
