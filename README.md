@@ -56,7 +56,7 @@
 
   <!--Resumo-->
  <div>
-  <img align="right" width="35%" src="Typing-bro.svg">
+  <img align="right" width="35%" src="The Little Things - Working.png">
   <h2 align="justify" width="65%">Mais Sobre Mim</h2>
    <p align="justify" width="65%">
     Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
