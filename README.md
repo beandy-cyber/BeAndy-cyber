@@ -22,18 +22,12 @@
  
  <!-- ESPECIALIZÇÕES --><!-- GIF --> 
 <div align="center">
- 
-<img alt="Node.js" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
- 
-<img alt="Python" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
  <img alt="HTML" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
  <img alt="CSS" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
  <img alt="Js" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-
- <img alt="bootstrp" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
   
  <img alt="Visual Studio" align="center" width="30em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  
