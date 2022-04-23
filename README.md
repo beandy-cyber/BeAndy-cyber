@@ -4,7 +4,7 @@
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
-## Olá! Eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
+## Olá, eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 <br>
