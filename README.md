@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="AdobeStock_254850451.jpeg">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-working.jpg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
