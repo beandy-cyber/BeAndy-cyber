@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-clean.jpg">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/51af278187f98257718568fb82f05c21b7b36ced/imagens alternativas/img header/header-floresta-com-animais.jpeg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
