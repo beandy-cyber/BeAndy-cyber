@@ -13,9 +13,9 @@
  <div align="center">  
 
    <a href="https://git.io/streak-stats">
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=dark&hide_border=false"/>
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=github-dark&hide_border=false"/>
    </div>
 
  <br>
