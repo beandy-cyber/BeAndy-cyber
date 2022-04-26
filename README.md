@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-working.jpg">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-clean.jpg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
@@ -56,10 +56,11 @@
    </p>
   
  </div>
+
   ##
  <!-- COBRINHA -->
 <div width="100%"> 
 
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
