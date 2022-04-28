@@ -12,9 +12,9 @@
 
  <div align="center">  
  
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
      
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=radical&hide_border=false"/>
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
    
    </div>
 
@@ -64,3 +64,4 @@
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
