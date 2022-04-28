@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/51af278187f98257718568fb82f05c21b7b36ced/imagens alternativas/img header/header-floresta-com-animais.jpeg">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-floresta.jpeg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
@@ -13,9 +13,9 @@
  <div align="center">  
 
    <a href="https://git.io/streak-stats">
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
    
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=gotham&hide_border=true"/>
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/>
    </div>
 
  <br>
