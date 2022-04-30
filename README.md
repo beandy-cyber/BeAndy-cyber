@@ -1,10 +1,10 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" " src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-geometric-neon-laser-ligths.jpg">
+<img width="100%" " src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-texto-neon.png">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
-## Olá, eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
+## Sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 <br>
