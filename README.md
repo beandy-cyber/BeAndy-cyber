@@ -1,11 +1,11 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
 
-<img width="100%" " src="[https://github.com/BeAndy-cyber/BeAndy-cyber/blob/09bfd02892c48084355df2fc1622c9c2c30170b6/imagens alternativas/img header/header-cofee.png](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20header/header-cofee.png)">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/09bfd02892c48084355df2fc1622c9c2c30170b6/imagens alternativas/img header/header-cofee.png">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
-## Sou a Beatriz, estudante de programação e entusiasta em tecnologia!
+## Olá, sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 <br>
@@ -13,9 +13,9 @@
 
  <div align="center">  
  
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=highcontrast&ring=blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
      
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=highcontrast&title_color=blue&hide_border=true"/>
    
    </div>
 
@@ -45,7 +45,7 @@
   </div><hr>
   <!--Resumo-->
  <div>
-  <img align="right" width="35%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img ilustrativa/typing.svg">
+  <img align="right" width="35%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20ilustrativa/working.png">
   <h2 align="justify" width="65%">Mais Sobre Mim</h2>
    <p align="justify" width="65%">
     Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
