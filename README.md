@@ -1,7 +1,7 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
 
-<img width="100%" " src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img ilustrativa/typing.svg">
+<img width="100%" " src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/09bfd02892c48084355df2fc1622c9c2c30170b6/imagens alternativas/img header/header-cofee.png">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
