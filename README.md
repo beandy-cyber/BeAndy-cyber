@@ -1,21 +1,22 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img header/header-texto-neon.png">
+
+<img width="100%" " src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img ilustrativa/typing.svg">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
-## Olá, eu sou a Beatriz, estudante de programação e entusiasta em tecnologia!
+## Sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - 🌱 Atualmente focando no estudo de front end development
 <br>
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
 
  <div align="center">  
-
-   <a href="https://git.io/streak-stats">
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ 
+ <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+     
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
    
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=gotham&hide_border=true"/>
    </div>
 
  <br>
@@ -64,3 +65,4 @@
  ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
