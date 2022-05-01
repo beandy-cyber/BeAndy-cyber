@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/51af278187f98257718568fb82f05c21b7b36ced/imagens alternativas/img header/header-floresta-com-animais.jpeg">
+<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img header/header-texto-neon.png">
 </div>
 
 <!-- APRESENTAÇÃO TEXTO-->
@@ -44,7 +44,7 @@
   </div><hr>
   <!--Resumo-->
  <div>
-  <img align="right" width="35%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20ilustrativa/working.png">
+  <img align="right" width="35%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/f851f6f2999949d0efa0e41a3d7070ee8f41aa7f/imagens alternativas/img ilustrativa/typing.svg">
   <h2 align="justify" width="65%">Mais Sobre Mim</h2>
    <p align="justify" width="65%">
     Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
