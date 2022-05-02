@@ -32,15 +32,15 @@
  <!-- ESPECIALIZÇÕES --><!-- GIF -->
 <div align="center">
 
- <img alt="HTML" align="center" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img alt="HTML" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
- <img alt="CSS" align="center" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+ <img alt="CSS" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
- <img alt="Js" align="center" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img alt="Js" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   
- <img alt="Visual Studio" align="center" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+ <img alt="Visual Studio" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
 
- <img alt="VS code" align="center" width="45em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+ <img alt="VS code" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  </div>
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
    <br> 
