@@ -20,7 +20,7 @@
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
 
  <div align="center">  
- <h2>Informações Profissionais</h2><br>
+ <h2>Informações Profissionais</h2>
  <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=BeAndy-cyber&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
      
   <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeAndy-cyber&layout=compact&langs_count=7&theme=highcontrast&title_color=ffffff&hide_border=true"/>
