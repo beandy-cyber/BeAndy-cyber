@@ -28,12 +28,12 @@
   <!--Resumo-->
  <div>
   <img align="right" width="45%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20ilustrativa/coding.png">
-  <h2 align="justify" width="55%">Mais Sobre Mim</h2>
-   <p align="justify" width="55%">
+  <h2 align="left" width="55%">Mais Sobre Mim</h2>
+   <p align="left" width="55%">
     Meu interesse por programação começou em meados de 2021, após participar de uma palestra no Ensino Médio que despertou minha curiosidade pela área.
     Aos poucos fui estudando sobre conceitos simples, como HTML5, CSS3, Lógica de Programação, entre outros; até me dar conta de que Desenvolvimento Web é minha paixão.
    </p>
-   <p align="justify" width="55%">
+   <p align="left" width="55%">
     Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o
     intuito de aprofundar e desenvolver meus conhecimentos.
    </p>
