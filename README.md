@@ -13,6 +13,7 @@
 <!-- APRESENTAÇÃO TEXTO-->
 ## Olá, sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
+- :nerd_face: Cursando 2 graduações em TI
 - 🌱 Atualmente focando no estudo de front end development
 <br>
 
@@ -34,7 +35,7 @@
     Aos poucos fui estudando sobre conceitos simples, como HTML5, CSS3, Lógica de Programação, entre outros; até me dar conta de que Desenvolvimento Web é minha paixão.
    </p>
    <p align="left" width="55%">
-    Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o
+    Hoje, faço faculdade de Análise e Desenvolvimento de Sistemas e de Sistemas para Internet e estudo Desenvolvimento Fullstack, além de participar de projetos e eventos de tecnologia com o
     intuito de aprofundar e desenvolver meus conhecimentos.
    </p>
   <br>
