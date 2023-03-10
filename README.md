@@ -14,15 +14,15 @@
 ## Olá, sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - :nerd_face: Cursando 2 graduações em TI
-- 🌱 Atualmente focando no estudo de front end development
+- 🌱 Atualmente focando no estudo de banco de dados
 <br>
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
 
  <div align="center">  
- <img align="center" width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=beandy-cyber&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="center" width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=beandy-cyber&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
      
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beandy-cyber&layout=compact&langs_count=7&theme=highcontrast&title_color=ffffff&hide_border=true"/>
+  <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beandy-cyber&layout=compact&langs_count=7&theme=highcontrast&title_color=ffffff&hide_border=true"/>
    </div>
    <br>
 
