@@ -14,7 +14,7 @@
 ## Olá, sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - :nerd_face: Cursando 2 graduações em TI
-- 🌱 Atualmente focando no estudo de banco de dados
+- 🌱 Atualmente focando no estudo de banco de dados e back-end
 <br>
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
