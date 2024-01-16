@@ -14,7 +14,7 @@
 ## Olá, sou a Beatriz, estudante de programação e entusiasta em tecnologia!
 - 👀 Interessada em atuar como desenvolvedora de sistemas
 - :nerd_face: Cursando 2 graduações em TI
-- 🌱 Atualmente focando no estudo de banco de dados e back-end
+- 🌱 Atualmente focando no estudo de UX/UI Design
 <br>
 
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
@@ -55,11 +55,4 @@
   
  </div>
 
-  ##
- <!-- COBRINHA -->
-<div width="100%"> 
-
- ![Snake animation](https://github.com/BeAndy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
