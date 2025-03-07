@@ -1,28 +1,40 @@
-name: Generate Datas
+name: Cobrinha
 
 on:
-  schedule:  # Executa a cada 12 horas
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:  # Permite execução manual
+  # Executa automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 */24 * * *"
+  
+  # Permite execução manual
+  workflow_dispatch:
+  
+  # Executa em cada push na branch master
+  push:
+    branches:
+    - master
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions: 
+      contents: write  # Permissão para escrever na branch de saída
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Passo para gerar o arquivo SVG da cobrinha com base no gráfico de contribuições do GitHub
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: BeAndy-cyber
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Faz o push do arquivo gerado para a branch de saída
-      - uses: crazy-max/ghaction-github-pages@v3.1.0  # Versão mais recente do GitHub Pages Action
+          github_user_name: beandy-cyber  # Substitua com o seu nome de usuário do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg  # Caminho de saída do arquivo gerado
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    
+      # Passo para fazer o push do arquivo gerado para a branch output
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # Usa a versão mais recente do GitHub Pages Action
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Define a branch para o GitHub Pages
+          build_dir: dist  # Diretório de onde o arquivo SVG será enviado
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Certifique-se de que o secret foi configurado corretamente
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Usa o token do GitHub para autenticação
