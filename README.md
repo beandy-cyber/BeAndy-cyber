@@ -3,12 +3,6 @@
 
 <img width="100%" src="imagens alternativas/img header/Fundo_Roxo_Florido.png">
 </div>
-
- <!-- CONTATOS -->
- <div align="center"> 
-  <a href="https://www.linkedin.com/in/beandy-cyber/" target="_blank"><img align="center" height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="mailto: beandy.023@gmail.com" target="_blank"> <img align="center" height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- </div>
  
 <!-- APRESENTAÇÃO TEXTO-->
 ## Olá, sou a Beatriz, entusiasta em tecnologia, arte e inovação!
