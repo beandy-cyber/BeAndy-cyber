@@ -37,4 +37,4 @@ jobs:
           target_branch: output  # Define a branch para o GitHub Pages
           build_dir: dist  # Diretório de onde o arquivo SVG será enviado
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Usa o token do GitHub para autenticação
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usa o token do GitHub para autenticação
