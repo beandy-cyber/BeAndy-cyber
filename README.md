@@ -65,9 +65,8 @@
   <img alt="CSS" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  </div>
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
- <hr>
    
-   <!-- Cobrinha - Créditos: https://github.com/GabrielaZanetti/animacaoCobrinha -->
+   <!-- Cobrinha -->
  <picture>
   <img src="https://raw.githubusercontent.com/beandy-cyber/BeAndy-cyber/output/github-contribution-grid-snake-dark.svg">
  </picture>
