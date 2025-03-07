@@ -66,10 +66,8 @@
  </div>
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
    
-   <!-- Cobrinha -->
- <picture>
-  <img src="https://raw.githubusercontent.com/beandy-cyber/BeAndy-cyber/output/github-contribution-grid-snake-dark.svg">
- </picture>
+ <!-- Cobrinha -->
+ <img src="https://raw.githubusercontent.com/beandy-cyber/BeAndy-cyber/output/github-contribution-grid-snake-dark.svg">
  
 </div>
 
