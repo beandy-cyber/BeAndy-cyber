@@ -75,7 +75,7 @@
    
    <!-- Cobrinha - Créditos: https://github.com/GabrielaZanetti/animacaoCobrinha -->
  <picture>
-  <img src="https://raw.githubusercontent.com/beandy-cyber/BeAndy-cyber/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/beandy-cyber/BeAndy-cyber/output/github-contribution-grid-snake-dark.svg">
  </picture>
  
 </div>
