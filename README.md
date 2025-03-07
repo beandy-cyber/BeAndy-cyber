@@ -49,20 +49,17 @@
 
  <!-- ESPECIALIZÇÕES --><!-- GIF -->
 <div align="left">
+  <img alt="HTML" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
 
-  <img alt="Salesforce" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  <img alt="CSS" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">  
   
-  <img alt="Python" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Python" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 
-  <img alt="MySQL" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MySQL" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 
-  <img alt="Figma" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
+  <img alt="Figma" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
 
-  <img alt="Java" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img alt="HTML" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img alt="CSS" align="center" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img alt="Java" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
  </div>
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
    
