@@ -1,7 +1,7 @@
 <!-- APRESENTAÇÃO IMAGEM -->
 <div align="center">
 
-<img width="100%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/09bfd02892c48084355df2fc1622c9c2c30170b6/imagens alternativas/img header/header-cofee.png">
+<img width="100%" src="imagens alternativas/img header/Fundo_Roxo_Florido.png">
 </div>
 
  <!-- CONTATOS -->
