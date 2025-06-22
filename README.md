@@ -37,7 +37,7 @@
 
   <!--Resumo-->
  <div>
-  <img align="right" width="45%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20ilustrativa/Girl_coding_at_night.png">
+  <img align="right" width="45%" src="https://github.com/BeAndy-cyber/BeAndy-cyber/blob/main/imagens%20alternativas/img%20ilustrativa/Girl_coding_at_night_dark_mode.png">
   <h2 align="left" width="55%">🚀 Sobre Mim</h2>
    <p align="left" width="55%">
     Meu interesse por programação começou em 2021, depois de uma palestra no Ensino Médio que despertou minha curiosidade. Aos poucos, fui estudando por conta própria, começando com HTML, CSS e Lógica de Programação, até perceber que realmente gosto de Desenvolvimento Web.
@@ -53,9 +53,9 @@
 
   <img alt="CSS" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">  
   
-  <img alt="Python" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-
   <img alt="Figma" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
+  
+  <img alt="Python" align="center" width="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 
  </div>
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
